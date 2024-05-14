@@ -1,4 +1,4 @@
-name: "Terraform"
+name: "TerraformPin2Aws22"
 
 on:
   workflow_dispatch:
